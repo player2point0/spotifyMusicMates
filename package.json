@@ -16,7 +16,7 @@
     "express": "^4.16.4",
     "firebase": "^5.9.3",
     "mongodb": "^3.2.2",
-    "mongoose": "^5.4.22",
+    "mongoose": "^5.7.5",
     "querystring": "^0.2.0",
     "request": "^2.88.0"
   }
